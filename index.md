@@ -9,10 +9,10 @@ hero:
   actions:
     - theme: brand
       text: 使用电脑游玩
-      link: /docs/pc/1.启动器.md
+      link: /docs/pc/1.md
     - theme: alt
       text: 使用手机游玩
-      link: /docs/phone/1.启动器.md
+      link: /docs/phone/1.md
 
 features:
   - title: 简单高效
